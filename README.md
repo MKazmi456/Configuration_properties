@@ -1,1 +1,2 @@
 # Configuration_properties
+test
